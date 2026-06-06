@@ -24,6 +24,11 @@ body {
 /* --------------------
         見出し
 -------------------- */
+h1 {
+  color: var(--theme-color);
+  border-bottom: dashed 0.1em var(--theme-color);
+}
+
 
 h2,h3 {
   position: relative;
